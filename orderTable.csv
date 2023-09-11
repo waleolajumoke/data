@@ -1,0 +1,11 @@
+﻿order_day,order_id,product_id,client_id
+Monday,1001,102,101
+Monday,1002,104,102
+Tuesday,1003,104,101
+Wednesday,1004,101,101
+Thursday,1005,104,102
+Thursday,1006,105,102
+Thursday,1007,102,101
+Friday,1008,101,103
+Saturday,1009,102,102
+Saturday,1010,105,101
