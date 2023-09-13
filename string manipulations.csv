@@ -1,0 +1,6 @@
+first_name,last_name,course_code,phone_number,card_number,gender,address,
+James,Tyler,CSE120,23411234555,1223-2333-4455-4444,    male,"Marina, Lagos, Nigeria.",
+Stella,Eze,CSE120,23411234109,2312-3645-2373-7676,female  ,"Marina, Lagos, Nigeria.",
+Tunde,Stephens,BIO111,23422334534,1125-4423-5455-8712,       male,"Marina, Lagos, Nigeria.",
+Temi    ,Abasi,CHE131,23422233555,1222-6234-5498-0990,    female    ,"Marina, Lagos, Nigeria.",
+John,Adams,BIO111,23411278955,1166-4433-6784-9776,male,"Marina, Lagos, Nigeria.",
